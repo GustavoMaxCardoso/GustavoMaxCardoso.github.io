@@ -118,16 +118,7 @@ img { display: block; max-width: 100%; }
   font-variation-settings: "wdth" 112;
   letter-spacing: -0.01em;
 }
-.pairmark { width: 16px; height: 24px; border-radius: 2px; overflow: hidden; }
-.pairmark .w-or { fill: var(--stripe-white); }
-.pairmark .w-gr { fill: var(--stripe-white); }
-.pairmark .w-bl { fill: var(--stripe-white); }
-.pairmark .w-br { fill: var(--stripe-white); }
-.pairmark .c-or { fill: var(--orange); }
-.pairmark .c-gr { fill: var(--green); }
-.pairmark .c-bl { fill: var(--blue); }
-.pairmark .c-br { fill: var(--brown); }
-.pairmark { outline: 1px solid var(--line); }
+.avatar { width: 32px; height: 32px; border-radius: 50%; object-fit: cover; outline: 1px solid var(--line); }
 
 .topbar nav { display: flex; gap: 4px; }
 .topbar nav a {
