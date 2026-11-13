@@ -118,7 +118,7 @@ img { display: block; max-width: 100%; }
   font-variation-settings: "wdth" 112;
   letter-spacing: -0.01em;
 }
-.avatar { width: 32px; height: 32px; border-radius: 50%; object-fit: cover; outline: 1px solid var(--line); }
+.avatar { width: 36px; height: 36px; border-radius: 50%; object-fit: cover; outline: 1px solid var(--line); }
 
 .topbar nav { display: flex; gap: 4px; }
 .topbar nav a {
@@ -481,7 +481,7 @@ h3 {
 .band { background: var(--band-bg); color: var(--band-fg); }
 .contact-inner, .foot { max-width: var(--max); margin: 0 auto; padding-left: var(--gutter); padding-right: var(--gutter); }
 .contact-inner { padding-top: clamp(56px, 8vw, 104px); padding-bottom: clamp(48px, 6vw, 80px); }
-.contact-inner img { width: 88px; height: 88px; border-radius: 50%; object-fit: cover; border: 3px solid var(--band-fg); }
+.contact-inner img { width: 128px; height: 128px; border-radius: 50%; object-fit: cover; border: 3px solid var(--band-fg); }
 .contact-inner h2 {
   margin-top: 24px;
   font-size: clamp(40px, 6vw, 72px);
