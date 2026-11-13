@@ -19,7 +19,7 @@ As cores seguem os pares do padrão de cabeamento T568B (laranja, verde, azul e 
 index.html                 página única
 assets/css/style.css       estilos e temas claro/escuro
 assets/js/main.js          animação da topologia e diagrama do HUB
-assets/favicon.svg
+assets/favicon.svg         ícone da aba (com versões PNG ao lado)
 assets/cv/                 currículos em PDF
 assets/documents/          diploma
 images/                    foto de perfil e grade da pós

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="7" fill="#172230"/><g transform="translate(8 6)"><rect x="0" width="2" height="20" fill="#fff"/><rect x="2" width="2" height="20" fill="#E07A2E"/><rect x="4" width="2" height="20" fill="#fff"/><rect x="6" width="2" height="20" fill="#3B7FE0"/><rect x="8" width="2" height="20" fill="#fff"/><rect x="10" width="2" height="20" fill="#3FA567"/><rect x="12" width="2" height="20" fill="#fff"/><rect x="14" width="2" height="20" fill="#A56C4A"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="7" fill="#172230"/>
+  <path d="M8 4.5h11.5L25 10v16.5a1.5 1.5 0 0 1-1.5 1.5h-15A1.5 1.5 0 0 1 7 26.5v-20.5A1.5 1.5 0 0 1 8 4.5z" fill="#F4F6F8"/>
+  <path d="M19.5 4.5V9a1 1 0 0 0 1 1H25z" fill="#B9C3CF"/>
+  <circle cx="12.2" cy="11" r="2.8" fill="#D9702A"/>
+  <rect x="10" y="16" width="12" height="2" rx="1" fill="#2A60C2"/>
+  <rect x="10" y="20" width="12" height="2" rx="1" fill="#B9C3CF"/>
+  <rect x="10" y="24" width="8" height="2" rx="1" fill="#B9C3CF"/>
+</svg>
